@@ -1,0 +1,10 @@
+370a7d4963d4ddc7f8ed39a87ef52571 *DESCRIPTION
+380dd46f24b598dbb81cca4a639a3a53 *NAMESPACE
+f1f6e00843f56d81b38ba798cf29a241 *R/nlADG.R
+8e1a840ac56bb3cd3162c88668a3359f *man/assertDsubspace.Rd
+3f3f4a3e9829c2c372199db8766244fc *man/assertNoObservations.Rd
+f3d9ee3205c6143397642edca1267d48 *man/assertPDI.Rd
+9fee2484d8e995117dc497906e8996b5 *man/estimateDParameters.Rd
+1519869025b84890f98fa3c50c4d3b4b *man/nlADG.Rd
+56e1b38014622c8310bc15dc007e820b *man/reconstructDistParameters.Rd
+8c4c417117bc6dd3c43cebe394618451 *man/selectInd.Rd
